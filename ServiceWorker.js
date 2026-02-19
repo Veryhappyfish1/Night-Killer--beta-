@@ -1,9 +1,9 @@
 const cacheName = "RLP-Night Killer-3";
 const contentToCache = [
     "Build/night1.loader.js",
-    "Build/night1.framework.js.br",
-    "Build/night1.data.br",
-    "Build/night1.wasm.br",
+    "Build/night1.framework.js",
+    "Build/night1.data",
+    "Build/night1.wasm",
     "TemplateData/style.css"
 
 ];
